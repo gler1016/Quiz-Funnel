@@ -179,7 +179,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us. You can contact us at:
 
-- Your Name: [Deepak Kumar](mailto:kumardeepak070901@email.com)
+- [Deepak Kumar](mailto:kumardeepak070901@email.com)
 
 
 We value your input and would be happy to hear from you.
