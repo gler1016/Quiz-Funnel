@@ -65,7 +65,7 @@ const Quiz = (props) => {
     }
   }, []);
 
-  
+
   return (
     <>
       <div className="container-1">
@@ -144,7 +144,7 @@ const Quiz = (props) => {
             <div style={{ display: "flex" }}>
               <p className="instruction-w"></p>
               <p style={{ marginLeft: "15px", width: "270px" }}>
-                This means you didn't visited the question
+                This means you didn t visited the question
               </p>
             </div>
           </div>
